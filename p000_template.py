@@ -5,8 +5,8 @@
 ##
 
 def main():
-    ## TODO: INSERT YOUR CODE HERE.
-    pass
+	## TODO: INSERT YOUR CODE HERE.
+	pass
 
 if __name__ == '__main__':
-    main()
+	main()
